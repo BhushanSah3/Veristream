@@ -107,6 +107,4 @@ If you prefer not to build the images yourself, you can pull the prebuilt images
 
 Happy coding, containerizing, and enjoy using Veristream!
 
-📄 License
-This project is licensed under the Apache License 2.0.
-© 2025 Bhushan Sah, Roshan Kumar Singh, Shubham Kumar Jha. All rights reserved.
+📜 **License**: This project is licensed under the Apache License 2.0. © 2025 Bhushan Sah, Roshan Kumar Singh, Shubham Kumar Jha. See the [LICENSE](LICENSE) file for details.
